@@ -1,0 +1,13 @@
+c0bbbd9663eb115703c2516abf35f6b5 *DESCRIPTION
+fa67a3b8b4d150b71e2ee886f27ff6d3 *NAMESPACE
+1e0401975c062240c1a481d3b9b4f047 *R/l-irf.R
+489813f950a4b3b51e5d6fd2b61b059a *R/s-id.R
+3a89964ea73dcf041960bfbf90ba1107 *R/s-irf.R
+499584ce45ca4a204876435c76fc38bd *R/s-sa.R
+a74fbb9bd74805090303e7b33dcccdb4 *R/util.R
+a2e1b5c2337574a35ee7390afe2cb069 *build/partial.rdb
+562563a11a4568c443204161dfe1b232 *man/LSDirf-package.Rd
+f085c38b1f7820f4ef26d13832eb0b3d *man/irf.lsd.Rd
+1fa36d4f36ef8450029f63c9961f43b6 *man/state.ident.lsd.Rd
+cf3186b7a09ec326d8c0bb46f3455454 *man/state.irf.lsd.Rd
+47eeeccff18400d5a4f841eb0d60641a *man/state.sa.lsd.Rd
